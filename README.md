@@ -132,9 +132,14 @@ Lattices, rings, and module algebra are the bedrock.
 - [ ] Update certificate infrastructure for ML-DSA
 - [ ] Follow NIST IR 8547 transition timeline
 
+## Contributors
+- Venkatesh Reddy
+- Krish Kumar Sharma
+- Claude
+
 ---
 
 ## License
-CC0 - Free for all use. Maintained by the community.
+CC0 - Free for all use. Maintained by the contributors listed above.
 
 Repository: [Quantum-PQC-Resources-](https://github.com/rohan-chand-m-01/Quantum-PQC-Resources-)
