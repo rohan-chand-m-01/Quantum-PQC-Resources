@@ -1,4 +1,4 @@
-# Quantum Post-Quantum Cryptography (PQC) - Top 1% Free Learning Resource
+# Quantum Post-Quantum Cryptography (PQC) - Free Learning Resource
 
 "The quantum computer that breaks RSA doesn't need to exist tomorrow - your encrypted traffic is being harvested today."
 
